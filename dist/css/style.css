@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Museo Sans Light';
-  src: url("C:/Users/gorbatskiy/Desktop/dist/fonts/MuseoSansCirilic/MuseoSansCyrl-300.eot");
-  src: url("C:/Users/gorbatskiy/Desktop/dist/fonts/MuseoSansCyrl-300.eot?#iefix") format("embedded-opentype"), url("C:/Users/gorbatskiy/Desktop/dist/fonts/MuseoSansCirilic/MuseoSansCyrl-300.ttf") format("woff"), url("C:/Users/gorbatskiy/Desktop/dist/fonts/MuseoSansCirilic/MuseoSansCyrl-300.woff") format("truetype");
+  src: url("/fonts/MuseoSansCirilic/MuseoSansCyrl-300.eot");
+  src: url("/fonts/MuseoSansCyrl-300.eot?#iefix") format("embedded-opentype"), url("/fonts/MuseoSansCirilic/MuseoSansCyrl-300.ttf") format("woff"), url("C:/Users/gorbatskiy/Desktop/dist/fonts/MuseoSansCirilic/MuseoSansCyrl-300.woff") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
