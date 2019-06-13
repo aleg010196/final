@@ -268,7 +268,7 @@ img {
 }
 
 .offer {
-  background: url("C:/Users/gorbatskiy/Desktop/dist/img/offer-bg.png") no-repeat;
+  background: url("./img/offer-bg.png") no-repeat;
   background-size: contain;
   background-position: center right;
   position: relative;
